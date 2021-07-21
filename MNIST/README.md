@@ -3,4 +3,4 @@ handwritten by high school students and employees of the US Census Bureau. Each 
 the digit it represents. This set has been studied so much that it is often called the “Hello World” of
 Machine Learning: whenever people come up with a new classification algorithm, they are curious to see
 how it will perform on MNIST. Whenever someone learns Machine Learning, sooner or later they tackle
-MNIST which I attempted hope you like!
+MNIST which I attempted hope you like!  oh and I also used a bunch of classification algorithms.
